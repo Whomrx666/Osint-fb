@@ -2,7 +2,7 @@
 ![Osint-fb preview](Osint-fb.jpg)
 
 ## introduction
-Osint-fb is a tool for searching for information gathering on FB with various available methods.
+Osint-fb is a tool for searching for information gathering on Facebook with various available methods.
 
 ## Instalations
 ```
